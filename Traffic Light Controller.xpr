@@ -1,3 +1,5 @@
+# Main code
+
 module traffic_control(north_road,east_road,south_road,west_road,clk,rst);
 
    output reg [2:0] north_road,east_road,south_road,west_road; //Declaration of 4 roads
@@ -206,3 +208,27 @@ always @(state)
                     east_road = 3'b001;
                     west_road = 3'b100;
                 end 
+
+# Simulation Code
+
+module traffic_control_test;
+
+wire [2:0] n_lights,e_lights,s_lights,w_lights;
+reg clk,rst;
+
+traffic_control tt (n_lights,e_lights,s_lights,w_lights,clk,rst);
+
+initial
+ begin
+  clk=1'b1;
+  forever #5 clk=~clk;
+ end
+ 
+ initial
+ begin
+  rst=1'b1;
+  #10 rst=1'b0;
+  #1000;
+  $stop;
+ end
+endmodule
