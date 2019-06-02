@@ -7,3 +7,5 @@ The normal function of traffic lights requires more than slight control and coor
 Traffic controllers use the concept of phases, which are directions of movement grouped together. For instance, a simple T-junction may have three vehicle movement phases, one for each arm of the junction. There may be additional phases for other movements such as pedestrians, cyclists, bus lanes or tramways.
 
 A stage is a group of non-conflicting phases which move at the same time.
+
+![ASM Chart](ASM Chart.jpg)
