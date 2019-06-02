@@ -12,7 +12,7 @@ A stage is a group of non-conflicting phases which move at the same time.
 
 ### <p align="center">Fig 1. RTL Schematic</p>
 
-The simulatiom results were as follows
+The simulation results were as follows
 
 ### <p align="center">![image](https://user-images.githubusercontent.com/48091500/58762244-e4e94b00-856b-11e9-9253-1ba37a52d56a.png)
 
