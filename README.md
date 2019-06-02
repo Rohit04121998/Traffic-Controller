@@ -1,5 +1,5 @@
-# Traffic-Controller
-This project consists of a simple verilog code for traffic controller
+# Traffic-Light-Controller
+This project consists of a simple verilog code for traffic light controller
 
 Road traffic control involves directing vehicular and pedestrian traffic around a construction zone, accident or other road disruption, thus ensuring the safety of emergency response teams, construction workers and the general public.
 The normal function of traffic lights requires more than slight control and coordination to ensure that traffic and pedestrians move as smoothly, and safely as possible. A variety of different control systems are used to accomplish this, ranging from simple clockwork mechanisms to sophisticated computerized control and coordination systems that self-adjust to minimize delay to people using the junction.
