@@ -8,4 +8,4 @@ Traffic controllers use the concept of phases, which are directions of movement 
 
 A stage is a group of non-conflicting phases which move at the same time.
 
-![ASM Chart](ASM Chart.jpg)
+![ASM Chart](https://user-images.githubusercontent.com/48091500/58762156-9c7d5d80-856a-11e9-9f17-e7c42484517f.jpg)
