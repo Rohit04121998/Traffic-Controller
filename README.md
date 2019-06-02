@@ -8,11 +8,11 @@ Traffic controllers use the concept of phases, which are directions of movement 
 
 A stage is a group of non-conflicting phases which move at the same time.
 
-![image](https://user-images.githubusercontent.com/48091500/58762262-fc283880-856b-11e9-82e8-86a79437463b.png)
+### <p align="center">![image](https://user-images.githubusercontent.com/48091500/58762262-fc283880-856b-11e9-82e8-86a79437463b.png)
 
 ### <p align="center">Fig 1. RTL Schematic</p>
 
 The simulatiom results were as follows
 
-![image](https://user-images.githubusercontent.com/48091500/58762244-e4e94b00-856b-11e9-9253-1ba37a52d56a.png)
+### <p align="center">![image](https://user-images.githubusercontent.com/48091500/58762244-e4e94b00-856b-11e9-9253-1ba37a52d56a.png)
 
